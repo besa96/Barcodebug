@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barcodebug</string>
+
+    <string name="scan_barcode_button">📷 Scan barcode 📷</string>
+    <string name="no_barcode_captured">No barcode scanned</string>
+    <string name="barcode_error_format">"Error reading barcode: %1$s"</string>
+    <string name="format">Format :</string>
+    <string name="value_type">Value Type:</string>
+    <string name="display_value">Display Value:</string>
+    <string name="raw_string">Raw String:</string>
+    <string name="raw_bytes_hex">Raw Bytes(HEX):</string>
+</resources>
